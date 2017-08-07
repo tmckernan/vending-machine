@@ -7,3 +7,25 @@ Design a vending machine using a programming language of your choice. The vendin
   - The machine should take an initial load of products and change. The change will be of denominations 1p, 2p, 5p, 10p, 20p, 50p, £1, £2.
   - There should be a way of reloading either products or change at a later point.
   - The machine should keep track of the products and change that it contains.
+
+
+###language used
+
++ Ruby
+
+
+###How to set it up
+
+```sh
+git clone https://github.com/aitkenster/vending-machine.git
+```
+
+###How to run it
+cd vending-machine
+ruby run_machine.rb
+
+###How to run tests
+```sh
+cd vending-machine
+rspec
+```
