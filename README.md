@@ -21,8 +21,10 @@ git clone https://github.com/aitkenster/vending-machine.git
 ```
 
 ###How to run it
+```sh
 cd vending-machine
 ruby run_machine.rb
+```
 
 ###How to run tests
 ```sh
